@@ -1,4 +1,4 @@
-### Hi there 👋
+![My GitHub Banner](https://github.com/juancarbajal98/juancarbajal98/raw/master/GitHub\ Banner.gif)
 
 <!--
 **juancarbajal98/juancarbajal98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
