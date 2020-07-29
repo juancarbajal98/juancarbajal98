@@ -1,4 +1,18 @@
 ![My GitHub Banner](https://github.com/juancarbajal98/juancarbajal98/raw/master/GitHub-Banner.gif)
+------------------------------------------------------
+Hi, I'm Juan Carbajal 🙋🏽‍ I am a Junior Developer with [Urban TXT](https://exploringtech.org/home), a nonprofit in South Central Los Angeles that gives middle and high school students the skills and tools they need to enter the tech industry📱 💻 💡
+
+- I currently work a lot with the MEAN Stack 👨🏽‍💻 👨🏽‍💻 👨🏽‍💻
+
+- I'm currently trying to learn GoLang and SQL 🔬 🔬 🔬
+
+- Ask me about C++ or Python! 🤓 🤓 🤓
+
+- Reach me: [LinkedIn](https://www.linkedin.com/in/juancarbajal/) 👔 👔 👔
+
+- Pronouns: He/Him/His
+
+- Fun Fact: I ran two marathons in my teens 🏃🏽‍♂️ 🏃🏽‍♂️ 🏃🏽‍♂️
 
 <!--
 **juancarbajal98/juancarbajal98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
