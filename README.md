@@ -1,6 +1,6 @@
 ![My GitHub Banner](https://github.com/juancarbajal98/juancarbajal98/raw/master/GitHub-Banner.gif)
 ------------------------------------------------------
-Hi, I'm Juan Carbajal 🙋🏽‍ I am a Junior Developer with [Urban TXT](https://exploringtech.org/home), a nonprofit in South Central Los Angeles that gives middle and high school students the skills and tools they need to enter the tech industry📱 💻 💡
+Hi, I'm Juan Carbajal 🙋🏽‍ 
 
 - I currently work a lot with the MEAN Stack 👨🏽‍💻 👨🏽‍💻 👨🏽‍💻
 
