@@ -2,7 +2,7 @@
 ------------------------------------------------------
 Hi, I'm Juan Carbajal 🙋🏽‍ 
 
-- I currently work a lot with the MEAN Stack 👨🏽‍💻 👨🏽‍💻 👨🏽‍💻
+- I currently work a lot with JavaScript and C++ 👨🏽‍💻 👨🏽‍💻 👨🏽‍💻
 
 - I'm currently trying to learn GoLang and SQL 🔬 🔬 🔬
 
