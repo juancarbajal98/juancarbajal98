@@ -2,9 +2,9 @@
 ------------------------------------------------------
 Hi, I'm Juan Carbajal 🙋🏽‍ 
 
-- I currently work a lot with JavaScript and C++ 👨🏽‍💻 👨🏽‍💻 👨🏽‍💻
+- I currently work a lot with JavaScript and React 👨🏽‍💻 👨🏽‍💻 👨🏽‍💻
 
-- I'm currently trying to learn React 🔬 🔬 🔬
+- I'm currently trying to learn Electron 🔬 🔬 🔬
 
 - Ask me about C++ or Python! 🤓 🤓 🤓
 
